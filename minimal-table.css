@@ -34,3 +34,9 @@ html {
   caption {
     padding: 10px;
   }
+
+  .title{
+    text-align: center;
+    margin-left: 36%;
+    margin-right: 36%;
+  }
